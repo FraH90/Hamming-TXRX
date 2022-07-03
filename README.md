@@ -8,3 +8,5 @@ In the receiver, those bits are used to correct the error that happened on the c
 
 You can select on which bit the error should occour. 
 The Hamming code is an auto-correction code, which let you to automatically correct an error happened on the channel.
+
+In the project I've also added a powerpoint file that briefly explain the functioning of the system.
